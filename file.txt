@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 version 1
 bug fix
+=======
+version 2
+bug fix
+hot fix added
+>>>>>>> feature-branch
